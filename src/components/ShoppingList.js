@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import filter from "./filter";
 import Item from "./Item";
 
 function ShoppingList({ items }) {
